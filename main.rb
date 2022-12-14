@@ -1,1 +1,1 @@
-puts "I am Airbnb"
+puts 'I am Airbnb'
